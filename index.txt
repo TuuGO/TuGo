@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="keywords" content="login, has³o, zaloguj">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="ToGO.png">
+	<meta name="author" content="Eliasz D¹browski dabrowski1020@gmail.com">
+	<title>ToGO</title>
+	
+	
+</head>
+<body>
+</body>
+</html>
+	

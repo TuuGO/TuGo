@@ -1,0 +1,98 @@
+
+a.html5
+
+{
+	
+	color: #ffffff;
+	text-decoration: none;
+}
+
+body 
+{
+background-color: #202020;
+color: #ffffff;
+font-family: font-family: 'Lato', sans-serif;
+font-size: 20px;
+}
+
+
+
+#container
+{
+	
+	height: 450px;
+	width: 1350px;
+	float: left;
+
+}
+
+.tile1
+{
+	
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #3095d3;
+	float: left;
+	margin-left: 30px;
+	margin-top: 30px;
+	
+}
+
+.tile5
+{
+	margin-top: 10px;
+	margin-left: 30px;
+	width: 450px;
+	height: 274px;
+	background-color: #9ede9e;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-top: 20px;
+	float: left;
+}
+
+.tile6
+{
+	margin-top: 10px;
+	margin-left: 80px;
+	width: 450px;
+	height: 274px;
+	background-color: #9ede9e;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-top: 20px;
+	float: left;
+}
+
+.tresc
+{
+
+	height:620px;
+	width: 1085px;
+	float: left;
+	
+}
+
+
+
+.logowanie
+{
+	margin-left: 5px;
+	height: 600px;
+	width: 240px;
+	background-color: #606060; 
+	float: left;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.tresc2
+{
+	margin-top: 5px;
+	height: 205px;
+	width: 265px;
+	background-color: #9ede9e; 
+	float: left;
+
+}
